@@ -1,6 +1,15 @@
 # SecureStor
 
-<img src="securestor-logo-f47ff89e.png" alt="SecureStor Logo" width="220">
+<div align="center" style="
+  background: linear-gradient(135deg, #0f172a, #020617);
+  padding: 40px 0;
+">
+  <img src="securestor-logo-f47ff89e.png" alt="SecureStor Logo" width="220">
+  <p style="color:#e5e7eb; font-size:16px; margin-top:12px;">
+    Enterprise-Grade Artifact Repository with Built-in Security & Compliance
+  </p>
+</div>
+
 
 **Enterprise-Grade Artifact Repository with Built-in Security & Compliance**
 
