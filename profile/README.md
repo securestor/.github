@@ -1,5 +1,3 @@
-# SecureStor
-
 <div align="center" style="
   background: linear-gradient(135deg, #0f172a, #020617);
   padding: 40px 0;
