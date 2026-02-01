@@ -1,6 +1,6 @@
 # SecureStor
 
-![SecureStor Logo](securestor-logo-f47ff89e.png)
+<img src="securestor-logo-f47ff89e.png" alt="SecureStor Logo" width="220">
 
 **Enterprise-Grade Artifact Repository with Built-in Security & Compliance**
 
